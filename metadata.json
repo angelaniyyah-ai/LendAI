@@ -1,0 +1,7 @@
+{
+  "name": "LendAI - Loan Management System",
+  "description": "A comprehensive AI-powered loan and mortgage management system featuring risk signal, automated report, and multi-currency support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
